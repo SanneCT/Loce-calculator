@@ -1,1 +1,1 @@
-# Loce-calculator
+# Love-calculator
